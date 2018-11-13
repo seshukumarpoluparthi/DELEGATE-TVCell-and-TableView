@@ -117,10 +117,10 @@
             </objects>
             <point key="canvasLocation" x="1277.5999999999999" y="-584.25787106446785"/>
         </scene>
-        <!--View Controller-->
+        <!--SecondVC-->
         <scene sceneID="eQK-hs-N3n">
             <objects>
-                <viewController id="GVB-Zm-ikv" sceneMemberID="viewController">
+                <viewController id="GVB-Zm-ikv" customClass="SecondVC" customModule="TabCellDeleagate" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="mY8-sY-hio">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -164,6 +164,9 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="FDd-LM-aEE"/>
                     </view>
+                    <connections>
+                        <outlet property="animateView" destination="Jbm-O4-yil" id="bIw-vz-bm0"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="cmi-UP-N8U" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>

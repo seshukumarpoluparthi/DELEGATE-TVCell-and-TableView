@@ -17,6 +17,7 @@
 		28EF1675219AFE7E00B551F9 /* inspectableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28EF1674219AFE7E00B551F9 /* inspectableView.swift */; };
 		28EF1677219AFEB500B551F9 /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28EF1676219AFEB500B551F9 /* RoundButton.swift */; };
 		28EF1679219AFEE200B551F9 /* InspectableButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28EF1678219AFEE200B551F9 /* InspectableButton.swift */; };
+		28EF167B219B041800B551F9 /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28EF167A219B041800B551F9 /* SecondVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		28EF1674219AFE7E00B551F9 /* inspectableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = inspectableView.swift; sourceTree = "<group>"; };
 		28EF1676219AFEB500B551F9 /* RoundButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
 		28EF1678219AFEE200B551F9 /* InspectableButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InspectableButton.swift; sourceTree = "<group>"; };
+		28EF167A219B041800B551F9 /* SecondVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 			children = (
 				28EF1634219A9B3800B551F9 /* AppDelegate.swift */,
 				28EF1636219A9B3800B551F9 /* ViewController.swift */,
+				28EF167A219B041800B551F9 /* SecondVC.swift */,
 				28EF1646219A9C2F00B551F9 /* PersonTVC.swift */,
 				28EF1648219A9D1C00B551F9 /* Person.swift */,
 				28EF1676219AFEB500B551F9 /* RoundButton.swift */,
@@ -156,6 +159,7 @@
 				28EF1679219AFEE200B551F9 /* InspectableButton.swift in Sources */,
 				28EF1675219AFE7E00B551F9 /* inspectableView.swift in Sources */,
 				28EF1649219A9D1C00B551F9 /* Person.swift in Sources */,
+				28EF167B219B041800B551F9 /* SecondVC.swift in Sources */,
 				28EF1635219A9B3800B551F9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
